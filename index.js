@@ -25,3 +25,8 @@ function newFeatureAddB(){
   console.log(" this is new feature"); 
   console.log("this is new feature B");
 }
+
+function newFeatureAddb(){
+  console.log(" this is new feature"); 
+  console.log("this is new feature b");
+}
