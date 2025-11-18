@@ -1,5 +1,5 @@
 const age = 24;
-const name1 = "mrunank";
+const name1 = "mrunank new";
 
 function sayName(){
   console.log("my name is "+ name1);
